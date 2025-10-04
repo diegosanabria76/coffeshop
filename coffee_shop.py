@@ -26,5 +26,13 @@ MENU = {
 
 profit = 0
 
+resources = {
+	"water" :5000,
+	"milk":1000,
+	"coffee":15000;
+	}
+
+
+
 print(MENU)
 
